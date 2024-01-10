@@ -1,4 +1,4 @@
-# Caça Rochas: Um mágico sobre Geologia e Geomorfologia em C# ⛰️✨
+# Caça Rochas: Um jogo mágico sobre Geologia e Geomorfologia em C# ⛰️✨
 
 Bem-vindo ao Caça-Rochas! A ideia deste programa é desenvolver um jogo em C# sobre rochas, permitindo a aprendizagem da linguagem e compartilhando curiosidades sobre geologia e geomorfologia.
 Informações Importantes
