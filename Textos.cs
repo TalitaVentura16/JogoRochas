@@ -1,6 +1,6 @@
 using System;
 
-class Jogo
+class Texto
 {
     void MensagemBoasVindas()
     {
