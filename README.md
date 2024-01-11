@@ -29,7 +29,6 @@ License
 
 This project is distributed under the MIT License, allowing you to use, modify, and distribute the software as long as you maintain the copyright notice and disclaimer.
 
-
 <br><br>
 
 # Caça Rochas: Um jogo mágico sobre Geologia e Geomorfologia em C# ⛰️✨
