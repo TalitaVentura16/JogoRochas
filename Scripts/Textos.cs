@@ -1,12 +1,20 @@
 using System;
 
-class Texto
+public class Texto
 {
-    void MensagemBoasVindas()
+    public void MensagemBoasVindas()
     {
         Console.WriteLine(@"
 █▄▄ █▀▀ █▀▄▀█ ▄▄ █░█ █ █▄░█ █▀▄ █▀█   ▄▀█ █▀█   █▀▄▀█ █░█ █▄░█ █▀▄ █▀█   █▀▄ ▄▀█ █▀   █▀█ █▀█ █▀▀ █░█ ▄▀█ █▀ █
 █▄█ ██▄ █░▀░█ ░░ ▀▄▀ █ █░▀█ █▄▀ █▄█   █▀█ █▄█   █░▀░█ █▄█ █░▀█ █▄▀ █▄█   █▄▀ █▀█ ▄█   █▀▄ █▄█ █▄▄ █▀█ █▀█ ▄█ ▄");
+    }
+
+     public static void Main(string[] args)
+    {
+        Texto texto = new Texto();
+        texto.MensagemBoasVindas();
+        
+        // Aqui, você pode adicionar mais lógica ou interações, se necessário.
     }
 
     void EscolherCaminho()
@@ -74,4 +82,3 @@ class Texto
         jogo.ExibirSinopse();
     }
 }
-Até 
